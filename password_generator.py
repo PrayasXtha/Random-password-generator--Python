@@ -1,7 +1,7 @@
 #funtion imports
 import string       
 import random
-# importing the valuses of the funtions in the strings
+# importing the values of the funtions in the strings
 s1 = string.ascii_lowercase
 s2 = string.ascii_uppercase
 s3 = string.digits
